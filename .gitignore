@@ -1,0 +1,9 @@
+.idea/
+*.pyc
+*.pyo
+*.*~
+web/local_settings.py
+*.json
+media/
+db.sqlite3
+nohup.out

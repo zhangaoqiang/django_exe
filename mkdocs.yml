@@ -1,0 +1,10 @@
+site_name: HD_EDX DOCS
+dev_addr: 0.0.0.0:8001
+theme: readthedocs
+
+pages:
+- Home: 'index.md'
+- User: 'user.md'
+- Forum: 'forum.md'
+- Wiki: 'wiki.md'
+- UserLog: 'userLog.md'

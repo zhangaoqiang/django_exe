@@ -1,0 +1,9 @@
+HD_EDX 是406的一个django实战项目
+
+使用说明
+1. pip install -r requirements_dev.txt
+2. cp local_settings.py.sample local_settings.py
+3. make mkmigrate   # 校对数据库表和models
+4. make migrate     # 数据库建表
+5. make doc         # 文档测试服务器
+6. make server      # 项目测试服务
